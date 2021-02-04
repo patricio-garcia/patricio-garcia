@@ -12,14 +12,15 @@ I am Patricio. I am from Algarrobo, Chile.  I love to do web development and lea
   <br>
   <br>
 
-### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Languages and Tools:
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/patricio.garcia?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Patricio García" 
+    <img width="40%" height="auto" align="right" alt="Patricio García" 
          src="https://github-readme-stats.vercel.app/api?username=patricio-garcia&show_icons=true&theme=algolia&count_private=true" />
     <img width="30%" height="auto" align="right" alt="Patricio García" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricio-garcia&layout=compact" />
   </a>
+
 
 <!-- icons -->
 <code>
